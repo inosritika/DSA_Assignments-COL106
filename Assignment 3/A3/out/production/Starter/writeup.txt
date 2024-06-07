@@ -1,0 +1,2 @@
+None 
+Discussed method heapify of class Heap_new with Chandrakant as we were getting some errors while running the test cases. So we discussed our algos .
